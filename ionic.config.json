@@ -1,0 +1,8 @@
+{
+  "name": "mieduview",
+  "app_id": "735c7e85",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
