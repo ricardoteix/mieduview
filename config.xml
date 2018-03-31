@@ -89,5 +89,6 @@
 	    <variable name="CHANNEL_NAME" value="Master" />
 	    <variable name="UPDATE_METHOD" value="background" />
 	    <variable name="MAX_STORE" value="2" />
+	    <variable name="WARN_DEBUG" value="false" />
 	</plugin>
 </widget>
